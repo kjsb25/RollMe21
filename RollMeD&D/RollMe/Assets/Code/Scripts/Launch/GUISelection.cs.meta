@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53b89b51bfe3afb4aa2885b7b6a20fcb
+timeCreated: 1466750797
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - GMGui: {fileID: 133430, guid: 907b11619363dad409da49f3a65806dc, type: 2}
+  - PlayerGui: {fileID: 176916, guid: 0aad7235b6abb9d47bcc03865a77799e, type: 2}
+  - PlayerCube: {fileID: 100812, guid: 9713b8cf089290a45855c4be9d720730, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
